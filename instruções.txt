@@ -1,0 +1,3 @@
+## Para realizar a execução do programa, é nescessário instalar os requistos com o seguinte comando:
+
+pip install -r requisitos.txt
